@@ -1,0 +1,6 @@
+0	1	10	Inf	Inf	Inf
+1	0	Inf	1	Inf	Inf
+10	Inf	0	1	10	Inf
+Inf	1	1	0	Inf	1000
+Inf	Inf	10	Inf	0	1
+Inf	Inf	Inf	1000	1	0
